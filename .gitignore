@@ -1,0 +1,11 @@
+# Comment - .gitignore file should be included to the Repo, so all users get the same file
+tempfile.txt
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshop/
+assets/videos/
+#the following videos are an exception from the ignore list
+!assets/videos/tour_*.mp4
