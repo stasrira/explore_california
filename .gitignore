@@ -1,6 +1,7 @@
 # Comment - .gitignore file should be included to the Repo, so all users get the same file
 tempfile.txt
 tempfile2.txt
+-wl1.txt
 .DS_Store
 *.zip
 *.gz
